@@ -14,9 +14,11 @@ keywords:
   - Command substitution
 ---
 
-Project
+Basic
 ---------------
+{: .-three-column}
 
+### Project
 
 | Code          | Description                    |
 | ------------- | ------------------------------ |
@@ -27,8 +29,8 @@ Project
 | `<SPC> /`     | text search keyword in project |
 | ---           | ---                            |
 
-Go Mode
----------------
+### Go Mode
+
 
 | Code  | Description      |
 | ----- | ---------------- |
