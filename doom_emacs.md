@@ -37,3 +37,19 @@ Basic
 | `g d` | go to definition |
 | `g D` | go to reference  |
 | ----- | ---------------  |
+
+### Move
+
+| Code      | Description                                   |
+| --------- | --------------------------------------------- |
+| `*`       | search current word                           |
+| `#`       | search current word                           |
+| `C-o`     | jump back                                     |
+| `C-i`     | jump forward                                  |
+| `f{char}` | forward to the next occurrence of {char}      |
+| `F{char}` | backward to the previous occurrence of {char} |
+| `w`       | forward to start of next word                 |
+| `b`       | backward to previous ‘start of word’          |
+| `e`       | forward to next ‘end of word’                 |
+| `ge`      | backward to end of previous word              |
+| -----     | ---------------                               |
